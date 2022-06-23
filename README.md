@@ -1,4 +1,4 @@
-# In Development
+# In Development Please refer the ipynb (interactive python notebook) for the code 
 # CARTOON_GAN
 
 ## Real Image                  Cartoon Image
